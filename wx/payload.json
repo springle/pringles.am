@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-07-29T09:31:01Z",
+ "gen": "2026-07-29T10:01:01Z",
  "loc": "NYC",
  "model": "HREF 06Z",
  "initH": 4,
  "tzOff": -240,
  "head1": "SEVERE STORMS POSS ~5A",
- "head2": "FLOOD WATCH TIL 6A · SEVERE POSS",
+ "head2": "SEVERE POSS · UP TO 1.2″",
  "ptype": "rain",
  "feels": [
   70.0,
