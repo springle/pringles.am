@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-07-31T00:11:01Z",
+ "gen": "2026-07-31T01:01:01Z",
  "loc": "NYC",
- "model": "HREF 18Z",
+ "model": "NBM 23Z",
  "initH": 19,
  "tzOff": -240,
- "head1": "SEVERE STORMS POSS NOW",
- "head2": "SEVERE POSS · WORST 8–9P",
+ "head1": "MORNING FOG THEN SUN",
+ "head2": "CLEARS ~9A · 76/68 · UV 4 PK 10A",
  "ptype": "rain",
  "feels": [
   76.0,
