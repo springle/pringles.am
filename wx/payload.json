@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-07T03:31:01Z",
+ "gen": "2026-08-07T04:00:56Z",
  "loc": "NYC",
- "model": "NBM 02Z",
+ "model": "HREF 00Z",
  "initH": 22,
  "tzOff": -240,
- "head1": "DANGEROUS HEAT — 98 AT 12P",
- "head2": "UV 7 PK 12P · DEW 75",
+ "head1": "SEVERE STORMS POSS ~1P",
+ "head2": "SEVERE POSS · WORST ~1P",
  "ptype": "rain",
  "feels": [
   92.0,
