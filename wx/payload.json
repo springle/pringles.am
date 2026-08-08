@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-08T00:11:01Z",
+ "gen": "2026-08-08T00:21:01Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 19,
  "tzOff": -240,
- "head1": "FLASH FLOOD WARNING TIL 9P",
- "head2": "SEVERE STORMS NOW · FLOOD RISK",
+ "head1": "SEVERE STORMS NOW · FLOOD RISK",
+ "head2": "SEVERE POSS · UP TO 0.21″",
  "ptype": "rain",
  "feels": [
   90.0,
@@ -296,8 +296,8 @@
  ],
  "flood": [
   0.26,
-  0.8,
-  0.48,
+  0.25,
+  0.12,
   0.01,
   0.03,
   0.01,
@@ -348,7 +348,7 @@
  ],
  "drops": [
   3,
-  3,
+  2,
   2,
   0,
   0,
