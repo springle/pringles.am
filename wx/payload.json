@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-09T17:11:01Z",
+ "gen": "2026-08-09T18:01:01Z",
  "loc": "NYC",
- "model": "HREF 12Z",
+ "model": "NBM 16Z",
  "initH": 12,
  "tzOff": -240,
- "head1": "POP-UP STORMS THIS AFTERNOON",
- "head2": "15% 1–2P · UV 7 PK 2P · 95/78",
+ "head1": "QUIET AND CLEAR ALL DAY",
+ "head2": "95/76 · UV 7 PK 2P",
  "ptype": "rain",
  "feels": [
   94.0,
