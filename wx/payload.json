@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-14T23:11:01Z",
+ "gen": "2026-08-15T00:01:01Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 18,
  "tzOff": -240,
  "head1": "SEVERE STORMS POSS NOW",
- "head2": "SEVERE POSS · WORST 7–9P",
+ "head2": "SEVERE POSS · WORST 8–9P",
  "ptype": "rain",
  "feels": [
   85.0,
