@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-18T00:11:01Z",
+ "gen": "2026-08-18T01:01:01Z",
  "loc": "NYC",
- "model": "NBM 23Z",
+ "model": "HREF 18Z",
  "initH": 19,
  "tzOff": -240,
- "head1": "RAIN 9P–1A",
- "head2": "UP TO 0.16″ · 20% 9P–1A · 78/73",
+ "head1": "POP-UP STORMS THIS MORNING",
+ "head2": "20% ~10A · UV 2 PK 10A · 79/73",
  "ptype": "rain",
  "feels": [
   78.0,
