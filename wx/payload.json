@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-20T22:31:01Z",
+ "gen": "2026-08-20T22:41:01Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 17,
  "tzOff": -240,
  "head1": "FLASH FLOOD WARNING TIL 7:45P",
- "head2": "FLOOD WATCH TIL 2A",
+ "head2": "STORM 1MI E · FLOOD WATCH TIL 2A",
  "ptype": "rain",
  "feels": [
   78.0,
