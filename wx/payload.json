@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-21T01:10:01Z",
+ "gen": "2026-08-21T01:21:01Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 20,
  "tzOff": -240,
  "head1": "SEVERE STORMS POSS NOW",
- "head2": "FLOOD WATCH TIL 2A · SEVERE POSS",
+ "head2": "SEVERE POSS · UP TO 1.4″",
  "ptype": "rain",
  "feels": [
   71.0,
@@ -244,8 +244,8 @@
  ],
  "thunder": [
   0.2,
-  0.6,
-  0.36,
+  0.33,
+  0.33,
   0.17,
   0.23,
   0.18,
