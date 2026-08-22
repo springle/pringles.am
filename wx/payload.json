@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-08-22T16:11:01Z",
+ "gen": "2026-08-22T17:01:01Z",
  "loc": "NYC",
  "model": "HREF 12Z",
  "initH": 11,
  "tzOff": -240,
  "head1": "POP-UP STORMS TONIGHT",
- "head2": "20% 11P–1A · UV 7 PK 2P · 76/71",
+ "head2": "20% 11P–2A · UV 7 PK 2P · 76/70",
  "ptype": "rain",
  "feels": [
   72.0,
