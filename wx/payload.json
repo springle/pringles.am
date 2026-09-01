@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-01T22:50:06Z",
+ "gen": "2026-09-01T23:00:51Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 17,
  "tzOff": -240,
  "head1": "SEVERE STORMS POSS NOW",
- "head2": "STORM 7MI S · SVR WATCH TIL 12A",
+ "head2": "STORM 11MI S · SVR WATCH TIL 12A",
  "ptype": "rain",
  "feels": [
   85.0,
@@ -244,9 +244,9 @@
  ],
  "thunder": [
   0.38,
+  0.47,
   0.9,
   0.54,
-  0.28,
   0.38,
   0.34,
   0.32,
