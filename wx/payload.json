@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-02T02:10:20Z",
+ "gen": "2026-09-02T03:00:42Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 21,
  "tzOff": -240,
- "head1": "SEVERE STORMS POSS NOW",
- "head2": "SEVERE POSS · WORST 10–11P",
+ "head1": "POP-UP STORMS TONIGHT",
+ "head2": "30% 11P–2A · UV 1 PK 12P · 74/70",
  "ptype": "rain",
  "feels": [
   76.0,
