@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-04T06:40:40Z",
+ "gen": "2026-09-04T07:00:54Z",
  "loc": "NYC",
  "model": "HREF 00Z",
  "initH": 1,
  "tzOff": -240,
  "head1": "SEVERE STORMS POSS NOW",
- "head2": "SEVERE POSS · UP TO 0.23″",
+ "head2": "SEVERE POSS · UP TO 0.19″",
  "ptype": "rain",
  "feels": [
   75.0,
@@ -244,9 +244,9 @@
  ],
  "thunder": [
   0.11,
+  0.22,
   0.6,
   0.36,
-  0.05,
   0.23,
   0.1,
   0.01,
@@ -322,9 +322,9 @@
  ],
  "bolts": [
   1,
+  1,
   2,
   1,
-  0,
   1,
   0,
   0,
