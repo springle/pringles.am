@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-12T21:30:13Z",
+ "gen": "2026-09-12T22:00:12Z",
  "loc": "NYC",
  "model": "HREF 18Z",
  "initH": 16,
  "tzOff": -240,
- "head1": "SEVERE STORMS POSS ~6A",
- "head2": "FLOOD WATCH TIL SUN 12P",
+ "head1": "SEVERE STORMS POSS ~7A",
+ "head2": "FLOOD WATCH TIL 12P",
  "ptype": "rain",
  "feels": [
   77.0,
