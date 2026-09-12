@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-12T13:10:56Z",
+ "gen": "2026-09-12T14:00:30Z",
  "loc": "NYC",
  "model": "NBM 12Z",
  "initH": 8,
  "tzOff": -240,
  "head1": "QUIET AND CLEAR ALL DAY",
- "head2": "FLOOD WATCH TIL SUN 11A · 79/68",
+ "head2": "FLOOD WATCH TIL SUN 11A · 79/72",
  "ptype": "rain",
  "feels": [
   66.0,
