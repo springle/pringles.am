@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-21T12:10:07Z",
+ "gen": "2026-09-21T13:00:19Z",
  "loc": "NYC",
  "model": "NBM 11Z",
  "initH": 7,
  "tzOff": -240,
- "head1": "MORNING FOG THEN SUN",
- "head2": "CLEARS ~11A · 72/60 · UV 6 PK 1P",
+ "head1": "QUIET AND CLEAR ALL DAY",
+ "head2": "72/60 · UV 6 PK 1P",
  "ptype": "rain",
  "feels": [
   60.0,
