@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-21T06:10:33Z",
+ "gen": "2026-09-21T07:00:42Z",
  "loc": "NYC",
- "model": "HREF 00Z",
+ "model": "NBM 05Z",
  "initH": 1,
  "tzOff": -240,
- "head1": "SEVERE STORMS POSS NOW",
- "head2": "SEVERE POSS · UP TO 0.12″",
+ "head1": "MORNING FOG THEN SUN",
+ "head2": "CLEARS ~10A · 70/60 · UV 6 PK 1P",
  "ptype": "rain",
  "feels": [
   67.0,
