@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-22T08:10:17Z",
+ "gen": "2026-09-22T09:00:04Z",
  "loc": "NYC",
  "model": "NBM 07Z",
  "initH": 3,
  "tzOff": -240,
- "head1": "RAIN 5–6A",
- "head2": "UP TO 0.15″ · 25% 5–6A · 64/60",
+ "head1": "RAIN 1–4P",
+ "head2": "UP TO 0.13″ · 20% 1–4P · 64/60",
  "ptype": "rain",
  "feels": [
   64.0,
