@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-25T19:10:05Z",
+ "gen": "2026-09-25T20:00:22Z",
  "loc": "NYC",
- "model": "NBM 18Z",
+ "model": "HREF 12Z",
  "initH": 14,
  "tzOff": -240,
- "head1": "GUSTY WINDS 3P–4A",
- "head2": "GUSTS TO 45 3P–4A · 70/60",
+ "head1": "SEVERE STORMS POSS ~5A",
+ "head2": "SEVERE POSS · UP TO 0.54″",
  "ptype": "rain",
  "feels": [
   70.0,
