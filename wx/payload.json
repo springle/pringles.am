@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-09-28T04:10:35Z",
+ "gen": "2026-09-28T05:00:22Z",
  "loc": "NYC",
  "model": "HREF 00Z",
  "initH": 23,
  "tzOff": -240,
  "head1": "SEVERE STORMS POSS ~2A",
- "head2": "SEVERE POSS · UP TO 0.86″",
+ "head2": "SEVERE POSS · UP TO 0.71″",
  "ptype": "rain",
  "feels": [
   64.0,
