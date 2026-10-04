@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-10-04T03:30:13Z",
+ "gen": "2026-10-04T04:00:42Z",
  "loc": "NYC",
- "model": "NBM 02Z",
+ "model": "HREF 00Z",
  "initH": 22,
  "tzOff": -240,
- "head1": "QUIET AND CLEAR ALL DAY",
- "head2": "63/58 · WIND UNDER 15",
+ "head1": "SEVERE STORMS POSS ~1P",
+ "head2": "SEVERE POSS · WORST ~1P",
  "ptype": "rain",
  "feels": [
   62.0,
