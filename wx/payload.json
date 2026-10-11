@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-10-11T05:10:09Z",
+ "gen": "2026-10-11T06:00:31Z",
  "loc": "NYC",
- "model": "NBM 04Z",
+ "model": "HREF 00Z",
  "initH": 0,
  "tzOff": -240,
- "head1": "MORNING FOG",
- "head2": "CLEARS ~11A · 62/58",
+ "head1": "SEVERE STORMS POSS ~3P",
+ "head2": "SEVERE POSS · UP TO 0.58″",
  "ptype": "rain",
  "feels": [
   58.0,
