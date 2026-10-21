@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-10-21T09:10:13Z",
+ "gen": "2026-10-21T10:00:08Z",
  "loc": "NYC",
  "model": "NBM 08Z",
  "initH": 4,
  "tzOff": -240,
  "head1": "MORNING FOG THEN SUN",
- "head2": "CLEARS ~5A · 61/42 · UV 4 PK 1P",
+ "head2": "CLEARS ~6A · 61/42 · UV 4 PK 1P",
  "ptype": "rain",
  "feels": [
   52.0,
