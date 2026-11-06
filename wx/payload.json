@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-06T02:10:45Z",
+ "gen": "2026-11-06T03:00:01Z",
  "loc": "NYC",
  "model": "NBM 01Z",
  "initH": 20,
  "tzOff": -300,
  "head1": "MORNING FOG",
- "head2": "CLEARS ~10A · 69/64",
+ "head2": "CLEARS ~10A · 68/64",
  "ptype": "rain",
  "feels": [
   69.0,
