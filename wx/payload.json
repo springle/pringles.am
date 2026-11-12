@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-12T19:10:49Z",
+ "gen": "2026-11-12T19:20:45Z",
  "loc": "NYC",
  "model": "NBM 18Z",
  "initH": 13,
  "tzOff": -300,
- "head1": "SEVERE STORMS POSS NOW",
- "head2": "SEVERE POSS · UP TO 1.07″",
+ "head1": "POP-UP STORMS THIS AFTERNOON",
+ "head2": "90% 2–4P · 58/42",
  "ptype": "rain",
  "feels": [
   59.0,
@@ -270,8 +270,8 @@
  ],
  "severe": [
   0.0,
-  0.23,
-  0.14,
+  0.06,
+  0.04,
   0.0,
   0.0,
   0.0,
