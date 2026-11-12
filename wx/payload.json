@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-12T17:30:58Z",
+ "gen": "2026-11-12T17:40:11Z",
  "loc": "NYC",
  "model": "NBM 16Z",
  "initH": 11,
  "tzOff": -300,
  "head1": "SEVERE STORMS POSS NOW",
- "head2": "STORM 9MI E · SEVERE POSS",
+ "head2": "SEVERE POSS · UP TO 1.23″",
  "ptype": "rain",
  "feels": [
   59.0,
@@ -270,8 +270,8 @@
  ],
  "severe": [
   0.0,
-  0.37,
-  0.22,
+  0.28,
+  0.17,
   0.0,
   0.0,
   0.0,
