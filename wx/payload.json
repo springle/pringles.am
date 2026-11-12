@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-12T18:20:42Z",
+ "gen": "2026-11-12T18:30:09Z",
  "loc": "NYC",
  "model": "NBM 17Z",
  "initH": 12,
  "tzOff": -300,
  "head1": "SEVERE STORMS POSS NOW",
- "head2": "STORM 7MI E · SEVERE POSS",
+ "head2": "STORM 8MI E · SEVERE POSS",
  "ptype": "rain",
  "feels": [
   59.0,
@@ -270,8 +270,8 @@
  ],
  "severe": [
   0.0,
-  0.41,
-  0.25,
+  0.32,
+  0.19,
   0.0,
   0.0,
   0.0,
@@ -322,7 +322,7 @@
  ],
  "bolts": [
   0,
-  3,
+  2,
   2,
   0,
   0,
