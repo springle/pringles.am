@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-13T14:10:07Z",
+ "gen": "2026-11-13T15:00:03Z",
  "loc": "NYC",
  "model": "NBM 13Z",
  "initH": 8,
  "tzOff": -300,
- "head1": "MORNING FOG",
- "head2": "38/35",
+ "head1": "RAIN 11A–2P",
+ "head2": "UP TO 0.14″ · 50% 11A–2P · 38/35",
  "ptype": "rain",
  "feels": [
   38.0,
