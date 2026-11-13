@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-12T23:50:51Z",
+ "gen": "2026-11-13T00:00:37Z",
  "loc": "NYC",
  "model": "NBM 22Z",
  "initH": 17,
  "tzOff": -300,
- "head1": "POP-UP STORMS THIS EVENING",
- "head2": "15% 6–7P · 53/38",
+ "head1": "GUSTY WINDS 7P–8A",
+ "head2": "GUSTS TO 34 7P–8A · 52/38",
  "ptype": "rain",
  "feels": [
   54.0,
@@ -270,9 +270,9 @@
  ],
  "severe": [
   0.0,
-  0.01,
-  0.01,
   0.0,
+  0.01,
+  0.01,
   0.0,
   0.0,
   0.0,
