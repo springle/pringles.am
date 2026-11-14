@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-14T12:10:47Z",
+ "gen": "2026-11-14T13:00:33Z",
  "loc": "NYC",
  "model": "NBM 11Z",
  "initH": 6,
  "tzOff": -300,
- "head1": "MORNING FOG",
- "head2": "CLEARS ~10A · 40/32",
+ "head1": "QUIET AND CLEAR ALL DAY",
+ "head2": "40/33 · UV 3 PK 11A",
  "ptype": "rain",
  "feels": [
   32.0,
