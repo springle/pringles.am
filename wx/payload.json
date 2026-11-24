@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-24T22:10:53Z",
+ "gen": "2026-11-24T23:00:33Z",
  "loc": "NYC",
  "model": "NBM 21Z",
  "initH": 16,
  "tzOff": -300,
  "head1": "QUIET AND CLEAR ALL DAY",
- "head2": "44/30 · WIND UNDER 10",
+ "head2": "42/30 · WIND UNDER 10",
  "ptype": "rain",
  "feels": [
   44.0,
