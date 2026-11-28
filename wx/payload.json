@@ -1,12 +1,12 @@
 {
  "v": 3,
- "gen": "2026-11-28T04:10:11Z",
+ "gen": "2026-11-28T05:00:21Z",
  "loc": "NYC",
  "model": "NBM 03Z",
  "initH": 22,
  "tzOff": -300,
- "head1": "GUSTY WINDS 10A–12P",
- "head2": "GUSTS TO 31 10A–12P · 42/38",
+ "head1": "GUSTY WINDS 10A–1P",
+ "head2": "GUSTS TO 32 10A–1P · 42/38",
  "ptype": "rain",
  "feels": [
   40.0,
